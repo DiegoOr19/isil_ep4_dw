@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: 20px;
+    color: #d3d3d3;
+    
+}
+span1{
+    font-family: "Permanent Marker", serif;
+    font-size: 40px;
+}
+span2{
+    font-family: "Permanent Marker", serif;
+    font-size: 40px;
+    font-weight: 100;
+}
+.categoria{
+    padding: 40px 100px;
+    text-align: center;
+    align-items: center;
+    color: #d3d3d3;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    
+    justify-content: center;
+    align-items: center;
+    background-color: #d3d3d3;
+    
+}
+
+.container {
+    background-color: #d3d3d3;
+    padding: 20px;
+    
+    text-align: center;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #5e17eb;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 1em;
+    color: #333;
+    margin: 5px 0;
+}
+
+.more-info {
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.more-info:hover {
+    color: #5e17eb;
+}
+
+
+/* Estilos del pie de página */
+.footer {
+    background-color: #5a00b8; /* Color púrpura */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+}
+
+.footer-section p {
+    margin: 0;
+}
+
+.plus {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid white;
+    margin: 10px 0;
+}
+
+.footer-contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.footer-contact p {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icons a img {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    padding: 5px;
+}
